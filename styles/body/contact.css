@@ -1,0 +1,29 @@
+.contact__container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 32px;
+  text-align: center;
+}
+
+.contact__container h2 {
+  font-size: 48px;
+  margin-bottom: 24px;
+}
+
+.contact__text {
+  font-size: 26px;
+  margin-bottom: 40px;
+}
+
+.contact__info {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.contact__info a,
+.contact__info span {
+  font-size: 26px;
+  color: #2e2957;
+  text-decoration: none;
+}
