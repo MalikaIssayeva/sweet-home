@@ -1,6 +1,5 @@
 ````markdown
 # Sweet Home | Homemade Desserts
-![Project Banner](../images/logo.webp)
 ## Overview
 Sweet Home is a home-based sweets startup creating fresh, delicious desserts using traditional recipes and premium ingredients. This project showcases a responsive web landing page for promoting homemade desserts, featuring product images, a hero section, about section, menu, and contact form.
 
